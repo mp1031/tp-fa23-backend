@@ -1,0 +1,25 @@
+{
+  "name": "husband-calling",
+  "version": "1.0.0",
+  "description": "WDB Backend Technical Project Fa '23 - Husband Calling",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mp1031/tp-fa23-backend.git"
+  },
+  "author": "Michelle Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mp1031/tp-fa23-backend/issues"
+  },
+  "homepage": "https://github.com/mp1031/tp-fa23-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
